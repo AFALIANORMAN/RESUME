@@ -1,0 +1,21 @@
+/* Custom Styles */
+.circle-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 50px;
+}
+.iconsize{
+    width: 25px;
+    height: 25px;
+    
+
+}
